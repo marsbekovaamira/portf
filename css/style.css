@@ -1,0 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,400;0,600;0,700;0,800;0,900;1,500&display=swap");
+
+
+.container {
+  background-color: #170550;
+  margin: 0 150px;
+}
+
+header {
+  height: 85px;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #170550;
+}
+.nav_item {
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  font-family: Exo 2;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+
+  margin-right: 33px;
+}
+#nav_btn_hire_me {
+  color: #461959;
+  font-family: Exo 2;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  width: 150px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #fff;
+  border: none;
+}
+.section1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 776px;
+  background: #31065a;
+}
+.section1_left h3 {
+  color: #f86f03;
+  font-family: Exo 2;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  /* line-height: normal; */
+}
+.section1_left h1 {
+  color: #fff;
+  font-family: Exo 2;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  /* line-height: normal; */
+}
+#nav_btn_download {
+  width: 200px;
+  height: 40.874px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #f86f03;
+  color: #fff;
+  font-family: Exo 2;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  border: none;
+  margin-top: 40px;
+}
+.section1_left p {
+  color: #fff;
+  font-family: Exo 2;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  /* line-height: normal; */
+}
+.section1_right img {
+  width: 577px;
+  height: 683px;
+  flex-shrink: 0;
+}
+.tittle {
+  color: #fff;
+  font-family: Exo 2;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin: 50px 459px;
+}
+.section2 {
+  display: flex;
+
+  height: 800px;
+  flex-shrink: 0;
+  background: #170550;
+}
+.tittle span {
+  color: #f86f03;
+  font-family: Exo 2;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+/* .section_2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+/* .section2_left img {
+  width: 360px;
+  height: 410px;
+  flex-shrink: 0;
+  border-radius: 15px;
+}
+#info1 {
+  color: #fff;
+  font-family: Exo 2;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+#info2 {
+  color: #fff;
+  font-family: Exo 2;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+#info3 {
+  color: #fff;
+  font-family: Exo 2;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+} */
